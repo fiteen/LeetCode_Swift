@@ -24,7 +24,7 @@ A solution set is:
 ```
 class Solution {
     func threeSum(_ nums: [Int]) -> [[Int]] {
-        var solution = [[Int]]()
+        var res = [[Int]]()
         let sortedNums = nums.sorted()
         if nums.count < 3 {
             return []
@@ -48,7 +48,7 @@ class Solution {
                         k -= 1
                     }
                 } else {
-                    solution.append([-target, sortedNums[j], sortedNums[k]])
+                    res.append([-target, sortedNums[j], sortedNums[k]])
                     j += 1
                     k -= 1
                     while j < k, sortedNums[j] == sortedNums[j - 1] {
@@ -60,7 +60,7 @@ class Solution {
                 }
             }
         }
-        return solution
+        return res
     }
 }
 ```
