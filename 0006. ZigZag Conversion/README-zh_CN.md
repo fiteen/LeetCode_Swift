@@ -23,14 +23,14 @@ E   D   H   N
 string convert(string s, int numRows);
 ```
 
-示例 1:
+**示例 1：**
 
 ```
 输入：s = "LEETCODEISHIRING", numRows = 3
 输出："LCIRETOESIIGEDHN"
 ```
 
-示例 2:
+**示例 2：**
 
 ```
 输入：s = "LEETCODEISHIRING", numRows = 4

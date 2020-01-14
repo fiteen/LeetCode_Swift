@@ -20,7 +20,7 @@ Given a string, find the length of the **longest substring** without repeating c
 >**Output:** 1
 >**Explanation:** The answer is "b", with the length of 1.
 
-Example 3:
+**Example 3:**
 
 >**Input:** "pwwkew"
 >**Output:** 3

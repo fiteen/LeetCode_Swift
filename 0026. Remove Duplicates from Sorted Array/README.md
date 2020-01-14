@@ -34,14 +34,16 @@ Note that the input array is passed in by **reference**, which means modificatio
 
 Internally you can think of this:
 
->// **nums** is passed in by reference. (i.e., without making a copy)
->int len = removeDuplicates(nums);
->
->// any modification to **nums** in your function would be known by the caller.
->// using the length returned by your function, it prints the first **len** elements.
->for (int i = 0; i < len; i++) {
->    print(nums[i]);
->}
+```
+// **nums** is passed in by reference. (i.e., without making a copy)
+int len = removeDuplicates(nums);
+
+// any modification to **nums** in your function would be known by the caller.
+// using the length returned by your function, it prints the first **len** elements.
+for (int i = 0; i < len; i++) {
+    print(nums[i]);
+}
+```
 
 
 
