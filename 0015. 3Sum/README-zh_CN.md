@@ -1,22 +1,20 @@
-# 0015. 3Sum
+# 0015. 三数之和
 
-English ｜ [简体中文](README-zh_CN)
+[English](README) ｜ 简体中文
 
 
 
-## Q
+## 题目描述
 
-Given an array `nums` of n integers, are there elements a, b, c in `nums` such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+给定一个包含 n 个整数的数组 `nums`，判断 `nums` 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
 
-**Note:**
+**注意：**答案中不可以包含重复的三元组。
 
-The solution set must not contain duplicate triplets.
+**示例：**
 
-**Example:**
-
->Given array nums = [-1, 0, 1, 2, -1, -4],
+>给定数组 nums = [-1, 0, 1, 2, -1, -4]，
 >
->A solution set is:
+>满足要求的三元组集合为：
 >[
 >  [-1, 0, 1],
 >  [-1, -1, 2]
@@ -24,7 +22,7 @@ The solution set must not contain duplicate triplets.
 
 
 
-## A
+## 题解
 
 ```
 class Solution {

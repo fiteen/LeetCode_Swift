@@ -1,6 +1,12 @@
+# 0020. Valid Parentheses
+
+English ｜ [简体中文](README-zh_CN)
+
+
+
 ## Q
 
-Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -9,40 +15,31 @@ An input string is valid if:
 
 Note that an empty string is also considered valid.
 
-Example 1:
+**Example 1:**
 
-```
-Input: "()"
-Output: true
-```
+>**Input:** "()"
+>**Output:** true
 
-Example 2:
+**Example 2:**
 
-```
-Input: "()[]{}"
-Output: true
-```
+>**Input:** "()[]{}"
+>**Output:** true
 
-Example 3:
+**Example 3:**
 
-```
-Input: "(]"
-Output: false
-```
+>**Input:** "(]"
+>**Output:** false
 
-Example 4:
+**Example 4:**
 
-```
-Input: "([)]"
-Output: false
-```
+>**Input:** "([)]"
+>**Output:** false
 
-Example 5:
+**Example 5:**
 
-```
-Input: "{[]}"
-Output: true
-```
+>**Input:** "{[]}"
+>**Output:** true
+
 
 
 ## A
