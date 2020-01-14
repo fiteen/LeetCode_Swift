@@ -1,6 +1,6 @@
 # 0028. 实现 strStr()
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

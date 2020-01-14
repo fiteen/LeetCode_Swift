@@ -1,6 +1,6 @@
 # 0021. 合并两个有序链表
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

@@ -1,6 +1,6 @@
 # 0019. 删除链表的倒数第 N 个节点
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

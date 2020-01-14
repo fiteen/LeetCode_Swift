@@ -1,6 +1,6 @@
 # 0016. 3Sum Closest
 
-English ｜ [简体中文](README-zh_CN)
+English ｜ [简体中文](./README-zh_CN.md)
 
 
 

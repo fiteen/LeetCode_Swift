@@ -1,6 +1,6 @@
 # 0001.两数之和
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

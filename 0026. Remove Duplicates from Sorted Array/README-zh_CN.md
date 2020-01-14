@@ -1,6 +1,6 @@
 # 0026. 删除排序数组中的重复项
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

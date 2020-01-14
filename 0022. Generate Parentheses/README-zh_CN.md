@@ -1,6 +1,6 @@
 # 0022. 括号生成
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

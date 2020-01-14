@@ -1,6 +1,6 @@
 # 0023. 合并K个排序链表
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

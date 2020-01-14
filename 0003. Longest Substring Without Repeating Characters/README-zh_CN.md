@@ -1,6 +1,6 @@
 # 0003. 无重复字符的最长字串
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

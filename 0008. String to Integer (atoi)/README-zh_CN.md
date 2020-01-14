@@ -1,6 +1,6 @@
 # 0008. 字符串转换整数（atoi）
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

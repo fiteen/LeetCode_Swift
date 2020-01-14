@@ -1,6 +1,6 @@
 # 0014. 最长公共前缀
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

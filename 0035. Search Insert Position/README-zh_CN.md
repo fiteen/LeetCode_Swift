@@ -1,6 +1,6 @@
 # 0035. 搜索插入位置
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

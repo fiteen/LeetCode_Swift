@@ -1,6 +1,6 @@
 # 0006. Z 字形变换
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

@@ -1,6 +1,6 @@
 # 0024. 两两交换链表的节点
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

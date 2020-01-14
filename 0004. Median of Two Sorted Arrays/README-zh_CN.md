@@ -1,6 +1,6 @@
 # 0004. 寻找两个有序数组的中位数
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

@@ -1,6 +1,6 @@
 # 0018. 4Sum
 
-English ｜ [简体中文](README-zh_CN)
+English ｜ [简体中文](./README-zh_CN.md)
 
 
 

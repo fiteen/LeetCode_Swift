@@ -1,6 +1,6 @@
 # 0020. 有效的括号
 
-[English](README) ｜ 简体中文
+[English](./README.md) ｜ 简体中文
 
 
 

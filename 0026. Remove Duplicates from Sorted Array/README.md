@@ -1,6 +1,6 @@
 # 0026. Remove Duplicates from Sorted Array
 
-English ｜ [简体中文](README-zh_CN)
+English ｜ [简体中文](./README-zh_CN.md)
 
 
 
