@@ -1,5 +1,7 @@
 # LeetCode_Swift
 
+![](https://img.shields.io/badge/language-swift-green.svg)
+
 [English](README.md) ｜ 简体中文
 
 | #    | Question                                                     | 难度 |
