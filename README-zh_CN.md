@@ -4,7 +4,7 @@
 
 | #    | Question                                                     | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 1    | [两数之和](Easy/0001. Two Sum/README-zh_CN.md)               | 简单 |
+| 1    | [两数之和](Easy/0001.two-sum/README-zh_CN.md)               | 简单 |
 | 2    | [两数相加](Medium/0002. Add Two Numbers/README-zh_CN.md)     | 中等 |
 | 3    | [无重复字符的最长字串](Medium/0003. Longest Substring Without Repeating Characters/README-zh_CN.md) | 中等 |
 | 4    | [寻找两个有序数组的中位数](Hard/0004. Median of Two Sorted Arrays/README-zh_CN.md) | Hard |

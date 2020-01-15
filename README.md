@@ -4,7 +4,7 @@ English ｜ [简体中文](README-zh_CN.md)
 
 | #    | Question                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ---------- |
-| 1    | [Two Sum](/Easy/0001. Two Sum)                                | Easy       |
+| 1    | [Two Sum](/Easy/0001.two-sum)                                | Easy       |
 | 2    | [Add Two Numbers](Medium/0002. Add Two Numbers)              | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](Medium/0003. Longest Substring Without Repeating Characters) | Medium     |
 | 4    | [Median of Two Sorted Arrays](Hard/0004. Median of Two Sorted Arrays) | Hard       |
