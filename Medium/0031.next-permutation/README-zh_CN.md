@@ -32,7 +32,7 @@
  *  4. 逆置 [i, end)，使其升序
  *  5. 如果步骤 1 中找不到符合的元素对(i-1, i)，说明[begin, end) 为降序，直接跳到步骤 4
  */
-```
+
 class Solution {
     func nextPermutation(_ nums: inout [Int]) {
         let count = nums.count
@@ -67,7 +67,5 @@ class Solution {
         nums[j] = temp;
     }
 }
-```
-
 ```
 
