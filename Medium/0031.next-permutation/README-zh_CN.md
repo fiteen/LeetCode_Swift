@@ -15,7 +15,9 @@
 以下是一些例子，输入位于左侧列，其相应输出位于右侧列。
 
 `1,2,3` → `1,3,2`
+
 `3,2,1` → `1,2,3`
+
 `1,1,5` → `1,5,1`
 
 
@@ -58,7 +60,7 @@ class Solution {
             }
         }
     }
-
+    
     func swap(_ nums: inout [Int], _ i: Int, _ j: Int) {
         let temp = nums[i];
         nums[i] = nums[j];
@@ -66,5 +68,6 @@ class Solution {
     }
 }
 ```
+
 ```
 

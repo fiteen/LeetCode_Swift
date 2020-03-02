@@ -36,7 +36,7 @@
 | 28   | [实现 strStr()](Easy/0028.implement-str-str/README-zh_CN.md) | 简单 |
 | 29   | [两数相除](Medium/0029.divide-two-integers/README-zh_CN.md)  | 中等 |
 | 30   | 串联所有单词的子串                                           | 困难 |
-| 31   | [下一个排列](Medium/0031.next-permutation)                  | 中等 |
+| 31   | [下一个排列](Medium/0031.next-permutation/README-zh_CN.md)  | 中等 |
 | 32   | 最长有效括号                                  | 困难 |
 | 33   | 搜索旋转排序数组                                             | 中等 |
 | 34   | 在排序数组中查找元素的第一个和最后一个位置      | 中等 |
