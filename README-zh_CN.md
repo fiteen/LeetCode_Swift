@@ -6,7 +6,7 @@
 
 | #    | Question                                                     | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 1    | [两数之和](Easy/0001.two-sum/README-zh_CN.md)                | 简单 |
+| 1    | [两数之和](Easy/0001.two-sum/README-zh_CN.md)                 | 简单 |
 | 2    | [两数相加](Medium/0002.add-two-numbers/README-zh_CN.md)      | 中等 |
 | 3    | [无重复字符的最长字串](Medium/0003.longest-substring-without-repeating-characters/README-zh_CN.md) | 中等 |
 | 4    | [寻找两个有序数组的中位数](Hard/0004.median-of-two-sorted-arrays/README-zh_CN.md) | Hard |
@@ -36,7 +36,7 @@
 | 28   | [实现 strStr()](Easy/0028.implement-str-str/README-zh_CN.md) | 简单 |
 | 29   | [两数相除](Medium/0029.divide-two-integers/README-zh_CN.md)  | 中等 |
 | 30   | 串联所有单词的子串                                           | 困难 |
-| 31   | 下一个排列                                                   | 中等 |
+| 31   | [下一个排列](Medium/0031.next-permutation)                  | 中等 |
 | 32   | 最长有效括号                                  | 困难 |
 | 33   | 搜索旋转排序数组                                             | 中等 |
 | 34   | 在排序数组中查找元素的第一个和最后一个位置      | 中等 |

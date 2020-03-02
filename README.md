@@ -36,7 +36,7 @@ English ｜ [简体中文](README-zh_CN.md)
 | 28   | [Implement strStr()](Easy/0028.implement-str-str)            | Easy       |
 | 29   | [Divide Two Integers](Medium/0029.divide-two-integers)       | Medium     |
 | 30   | Substring with Concatenation of All Words                    | Hard       |
-| 31   | Next Permutation                                             | Medium     |
+| 31   | [Next Permutation](Medium/0031.next-permutation)             | Medium     |
 | 32   | Longest Valid Parentheses                                    | Hard       |
 | 33   | Search in Rotated Sorted Array                               | Medium     |
 | 34   | Find First and Last Position of Element in Sorted Array      | Medium     |
