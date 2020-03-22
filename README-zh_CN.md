@@ -37,7 +37,8 @@
 | 29   | [两数相除](Medium/0029.divide-two-integers/README-zh_CN.md)  | 中等 |
 | 30   | 串联所有单词的子串                                           | 困难 |
 | 31   | [下一个排列](Medium/0031.next-permutation/README-zh_CN.md)  | 中等 |
-| 32   | 最长有效括号                                  | 困难 |
-| 33   | 搜索旋转排序数组                                             | 中等 |
-| 34   | 在排序数组中查找元素的第一个和最后一个位置      | 中等 |
+| 32   | 最长有效括号                                                     | 困难 |
+| 33   | 搜索旋转排序数组                                                  | 中等 |
+| 34   | 在排序数组中查找元素的第一个和最后一个位置                             | 中等 |
 | 35   | [搜索插入位置](Easy/0035.search-insert-position/README-zh_CN.md) | 简单 |
+| 134  | [加油站](Medium/0134./README-zh_CN.md)                          | 中等 |
