@@ -41,4 +41,5 @@
 | 33   | 搜索旋转排序数组                                                  | 中等 |
 | 34   | 在排序数组中查找元素的第一个和最后一个位置                             | 中等 |
 | 35   | [搜索插入位置](Easy/0035.search-insert-position/README-zh_CN.md) | 简单 |
+| 50   | [Pow(x, n)](Easy/0050.pow(x,n)/README-zh_CN.md)                | 中等 |
 | 134  | [加油站](Medium/0134./README-zh_CN.md)                          | 中等 |

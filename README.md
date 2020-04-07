@@ -41,4 +41,5 @@ English ｜ [简体中文](README-zh_CN.md)
 | 33   | Search in Rotated Sorted Array                               | Medium     |
 | 34   | Find First and Last Position of Element in Sorted Array      | Medium     |
 | 35   | [Search Insert Position](Easy/0035.search-insert-position)   | Easy       |
+| 50   | [Pow(x, n)](Easy/0050.pow(x,n))                              | Medium     |
 | 134  | [Gas Station](Medium/0134.gas-station)                       | Medium     |
